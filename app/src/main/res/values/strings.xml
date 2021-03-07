@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="check_answer">Check answer</string>
+    <string name="number1">number1</string>
+    <string name="operator">operator</string>
+    <string name="number2">number2</string>
+    <string name="play_again">play again</string>
+    <string name="show_solution">Show Solution</string>
+</resources>
